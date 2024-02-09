@@ -1,0 +1,41 @@
+* {
+    background-color: #6495ed;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    padding: 10px;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px 1px gray;
+    margin: 8px;
+    font-size: large;
+
+
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+    border: 2px solid gray;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+
+
+}
+
+div {
+    font-size: xx-large;
+    padding: 10px;
+}
